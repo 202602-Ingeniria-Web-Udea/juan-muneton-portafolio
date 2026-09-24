@@ -4,6 +4,12 @@ Portafolio web personal desarrollado como proyecto académico para practicar el 
 
 El proyecto presenta información personal, formación académica, conocimientos, habilidades y algunos proyectos desarrollados durante el proceso de formación en Ingeniería de Sistemas.
 
+## Demo
+
+La aplicación se encuentra desplegada en Vercel:
+
+**https://juan-muneton.vercel.app**
+
 ## Tecnologías utilizadas
 
 - Next.js 16
@@ -152,7 +158,7 @@ Para ejecutar el proyecto localmente se necesita tener instalado Node.js.
 Clonar el repositorio:
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/JuanMuneton87/juan-muneton-portafolio.git
 ```
 
 Ingresar al directorio:
